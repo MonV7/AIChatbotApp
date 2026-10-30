@@ -1,0 +1,5 @@
+buildFeatures {  
+viewBinding = true  
+compose = false  
+buildConfig = true  
+} 
