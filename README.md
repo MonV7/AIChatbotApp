@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/AIChatbotApp.git
 ### 2. Get a Gemini API Key
 1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
 2. Sign in and click **Create API Key**.
-3. Copy your newly generated key (it should start with `AIza... or AQ...`).
+3. Copy your newly generated key (it should start with `AQ...`).
 
 ### 3. Add the API Key to your project
 To keep your API key secure and out of version control, this project uses `local.properties` to inject the key during the build process.
